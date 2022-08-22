@@ -24,7 +24,7 @@ With npm
 ```
 With yarn
 ```bash
-  npm
+  yarn
 ```
 
 #### Start the server
